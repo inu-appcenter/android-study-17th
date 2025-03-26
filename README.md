@@ -14,7 +14,7 @@
 
 |                                                     이은우                                                     |                                                    이승준                                                    |
 | :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-| <a href="https://github.com/eunwoo031217"><img src="https://avatars.githubusercontent.com/eunwoo031217" width="120"></a> | <a href="https://github.com/"><img src="https://avatars.githubusercontent.com/" width="120"></a> |
+| <a href="https://github.com/eunwoo031217"><img src="https://avatars.githubusercontent.com/eunwoo031217" width="120"></a> | <a href="https://github.com/LEEJUUUN"><img src="https://avatars.githubusercontent.com/LEEJUUUN" width="120"></a> |
 
 ---
 
